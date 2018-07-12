@@ -1,6 +1,6 @@
-n=int(input())
-r=0
-while(n>0):
-    r=r+n
-    n=n-1
-print(r)
+m=int(input())
+j=0
+while(m>0):
+    j=j+m
+    m=m-1
+print(j)
