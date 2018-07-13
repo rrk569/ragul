@@ -1,3 +1,3 @@
 c=int(input())
-k=c[::-1]
-print(k)
+o=c[::-1]
+print(o)
