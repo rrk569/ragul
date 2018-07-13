@@ -1,3 +1,3 @@
 n=raw_input()
-m=n[::-1]
-print(m)
+y=n[::-1]
+print(y)
