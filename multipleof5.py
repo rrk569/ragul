@@ -1,6 +1,6 @@
-num=int(input())
-for i in range(1,num+1):
-    print(i*num),
+num1=int(input())
+for j in range(1,num1+1):
+    print(j*num1),
 
 
     
