@@ -1,5 +1,5 @@
-num=raw_input()
-if(num.isdigit()):
+n=raw_input()
+if(n.isdigit()):
     print("yes")
 else:
     print("No")
